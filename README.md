@@ -1,7 +1,6 @@
 # NotificationFCM
 Sending Firebase Cloud Messaging (FCM) notifications using Node.js.
 
-Markdown
 ## NotificationFCM Class for Sending FCM Notifications (Node.js)
 
 This document describes the `NotificationFCM` class, a Node.js implementation for sending Firebase Cloud Messaging (FCM) notifications.
